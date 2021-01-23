@@ -1,0 +1,29 @@
+
+body
+{
+}
+
+body,input,textarea,select
+{
+	font-size: 11pt;
+}
+		
+.divider
+{
+	margin: 5em 0em;
+}
+#logo-wrapper
+{
+	height: 6em;
+	min-height: 6em;
+}
+#banner
+{
+	padding: 5em 0em;
+}
+	
+.homepage #banner
+{
+	padding: 15em 0em;
+}
+
